@@ -12,7 +12,6 @@
 *.temp
 
 # Ignore IDE specific files
-.vscode/
 .idea/
 
 # Ignore system files
@@ -36,3 +35,7 @@ Thumbs.db
 
 # Ignore PHPStorm specific files
 .phpstorm.meta.php
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
